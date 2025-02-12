@@ -114,13 +114,19 @@
 
     .d-flex {
         flex-direction: column;
-        gap: 1.8rem;
+        gap: 2.5rem;
         align-items: center;
     }
 
-    .carousel-control-next,
+    /* .carousel-control-next,
     .carousel-control-prev {
-        display: none !important; /* Hide navigation buttons in mobile view */
+        display: none !important; 
+    } */
+    .carousel-control-next {
+        right: 0rem !important; /* 100px */
+    }
+    .carousel-control-prev {
+        left: 0rem !important; /* 100px */
     }
 
     .borderpart{
