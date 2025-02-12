@@ -76,11 +76,10 @@ strong {
     }
 
     .contentpart img {
-        width: 400px;
-        height: 400px;
+        width: 21.875rem; /* 350px / 16 */
+        height: 25rem; /* 400px / 16 */
         margin: auto;
-        align-items: center;
-        
+        align-items: center; 
     }
 
     .textpart {
