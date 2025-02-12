@@ -122,4 +122,8 @@
     .carousel-control-prev {
         display: none !important; /* Hide navigation buttons in mobile view */
     }
+
+    .borderpart{
+        width: 11rem;
+    }
 }
