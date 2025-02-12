@@ -6,6 +6,7 @@
     padding-left: 7px;
     padding-right: 7px;
     padding-bottom: 2rem;
+
 }
 
 .HeroInfo h1 {
@@ -20,13 +21,13 @@
 }
 
 .contentpart img {
-    width: 50rem; /* 800px / 16 */
-    height: 37.5rem; /* 600px / 16 */
-    max-width: 50rem;
-    max-height: 30.5rem;
+    width: 44rem; /* 800px / 16 */
+    height: 25rem; /* 600px / 16 */
+    max-width: 45rem;
+    max-height: 30rem;
     object-fit: cover;
-    margin-right: 1.25rem; /* 20px / 16 */
-    border-radius: 0.625rem; /* 10px / 16 */
+    margin-right: 0rem; /* 20px / 16 */
+    border-radius: 1rem; /* 10px / 16 */
 }
 
 
